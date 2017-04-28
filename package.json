@@ -7,7 +7,9 @@
   "devDependencies": {
     "cheerio": "^0.20.0",
     "ejs": "^2.4.1",
+    "find-versions": "^2.0.0",
     "glob": "^7.0.3",
+    "junit-report-builder": "^1.2.0",
     "marked": "^0.3.5",
     "viz.js": "^1.7.1"
   },

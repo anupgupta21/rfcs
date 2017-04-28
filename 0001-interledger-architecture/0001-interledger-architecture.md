@@ -1,4 +1,4 @@
-# Interledger Architecture
+# Interledger Architecture (v1.0.0)
 
 Interledger provides for secure payments across multiple assets on different ledgers. The architecture consists of a conceptual model for interledger payments, a mechanism for securing payments, and a suite of protocols that implement this design.
 
