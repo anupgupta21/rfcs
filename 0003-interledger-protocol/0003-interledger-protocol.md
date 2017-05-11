@@ -1,4 +1,4 @@
-# Interledger Protocol (ILP v1.0.0)
+# Interledger Protocol (ILP) - v1.0.0
 
 ## Preface
 

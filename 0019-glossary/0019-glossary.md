@@ -1,4 +1,4 @@
-# Glossary (v1.0.0)
+# Glossary - v1.0.0
 
 ## Account
 An administrative item that acts as a bucket of assets on a ledger.
