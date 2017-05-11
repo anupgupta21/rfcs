@@ -1,4 +1,4 @@
-# Ledger Layer Requirements
+# Ledger Layer Requirements (v0.1.0)
 
 ## Introduction
 

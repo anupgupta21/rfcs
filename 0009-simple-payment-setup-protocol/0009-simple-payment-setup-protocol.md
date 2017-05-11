@@ -1,4 +1,4 @@
-# Simple Payment Setup Protocol (SPSP)
+# Simple Payment Setup Protocol (SPSP v1.0.0)
 
 ## Preface
 

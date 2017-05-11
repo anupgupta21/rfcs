@@ -1,4 +1,4 @@
-# Interledger Payment Request (IPR)
+# Interledger Payment Request (IPR v0.1.0)
 
 The Interledger Payment Request (IPR) transport protocol is an end-to-end protocol in which the receiver of an Interledger payment first communicates a request for payment to the sender. This document also recommends a method for receivers to generate payment requests such that they can verify incoming payments without storing all outstanding requests.
 
