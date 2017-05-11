@@ -63,6 +63,11 @@ files.forEach((file) => {
     const title = $('h1').text()
     testCase.name('Generate ' + title)
 
+    if(title == "") {
+        testCase.skipped('No title. Assuming this RFC number is not being used.')
+        return
+    }
+
     //Get Version
     const version = findVersions(title, { loose: true })[0]
 
